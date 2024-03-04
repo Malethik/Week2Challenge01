@@ -1,0 +1,21 @@
+{
+  "name": "week2-challenge01",
+  "version": "1.0.0",
+  "description": "Challenge01",
+  "main": "index.html",
+  "type": "module",
+  "prettier": {
+    "singleQuote": true
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "author": "Daniele Quintiliani",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "husky": "^9.0.11"
+  }
+}
