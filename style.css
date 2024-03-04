@@ -1,0 +1,18 @@
+body {
+  background-color: #bad3d6;
+}
+.title {
+  font-family: Geneva, serif;
+  line-height: 1em;
+  color: #f21616;
+  font-weight: bold;
+  font-size: 75px;
+  text-shadow: 0px 0px 0 rgb(217, -3, -3), 1px 1px 0 rgb(202, -18, -18),
+    2px 2px 0 rgb(187, -33, -33), 3px 3px 0 rgb(172, -48, -48),
+    4px 4px 0 rgb(157, -63, -63), 5px 5px 0 rgb(142, -78, -78),
+    6px 6px 0 rgb(127, -93, -93), 7px 7px 6px #00000099, 7px 7px 1px #00000080,
+    0px 0px 6px #00000033;
+}
+a {
+  color: #ff0000;
+}
