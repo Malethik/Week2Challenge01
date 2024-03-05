@@ -1,5 +1,8 @@
 body {
   background-color: #bad3d6;
+  background-image: url(background.webp);
+  background-repeat: no-repeat;
+  background-size: 1600px;
 }
 .title {
   font-family: Geneva, serif;
